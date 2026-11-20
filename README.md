@@ -118,5 +118,14 @@ Project-Zero/
 
 ## 📄 License
 
-Projet Zero is released as **version 1** (`v1`) for public reference.
-See the project documentation for details.
+Projet Zero is released as **version 1** (`v1`) and licensed under the
+**Creative Commons Attribution 4.0 International** (CC BY 4.0) — see [`LICENSE`](LICENSE).
+You are free to **share** and **adapt** the content with appropriate attribution.
+
+---
+
+## 📄 Licence
+
+Projet Zero est publié en **version 1** (`v1`) et distribué sous licence
+**Creative Commons Attribution 4.0 International** (CC BY 4.0) — voir [`LICENSE`](LICENSE).
+Vous êtes libre de **partager** et **adapter** le contenu en citant l'auteur.
